@@ -1,0 +1,8 @@
+{
+    "name": "coreservice-service",
+    "version": "1.0.106",
+    "private": false,
+    "environment": "production",
+    "build_id": 936,
+    "allow_public_access": true
+}
